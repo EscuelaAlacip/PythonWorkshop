@@ -3,7 +3,7 @@
 ![LOGO](http://alacip.org/wp-content/uploads/2014/03/logoEscalacip.png)
 
 
-# Programa del Python Worshop:
+# Programa del Python Workshop:
 
 El workshop tiene una duración de **8** horas.
 Cada participante debe tener su propia **laptop**.
@@ -44,4 +44,7 @@ La version de Python a utilizar es la **3.6**.
 * Visualización de tablas de datos.
 * Visualización de Redes Sociales.
 * Visualización de Mapas.
+
+### CODIGO DE CONDUCTA
+Los participantes de este curso tienen que respetar el código de conducta de la Escuela ALACIP, para ello revise y visite este [enlace](http://alacip.org/?p=10190).
 
